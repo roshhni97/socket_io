@@ -83,3 +83,8 @@ main();
 //   - io.to
 //   - io.expect
 //   - socket.leave
+
+// CLient Delivery
+//   - Buffered
+//   - At least once
+//   - Exactly once
